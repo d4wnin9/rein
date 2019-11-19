@@ -1,9 +1,9 @@
 section .data
-    var1 dq 4
+    var1 db 4
 
-    var2 dq 2
+    var2 db 2
 
-    var3 dq 8
+    var3 db 8
 
 section .text
 
